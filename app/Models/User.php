@@ -3,7 +3,7 @@
  use Illuminate\Database\Eloquent\Model;
  class User extends Model{
 
-    protected $table = 'tbluser1';
+    protected $table = 'tbluser';
     public $timestamps = false;
  // column sa table
  protected $fillable = [

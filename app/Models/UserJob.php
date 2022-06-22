@@ -6,7 +6,7 @@
  class UserJob extends Model{
 
   
- protected $table = 'tbluser1job';
+ protected $table = 'tbluserjob';
 
  // column sa table
  protected $fillable = [
