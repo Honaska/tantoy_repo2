@@ -1,7 +1,7 @@
 <?php
 namespace App\Traits;
 use Illuminate\Http\Response;
-trait ApiResponser
+trait Apiresponser
 {
  /**
  * Build success response
